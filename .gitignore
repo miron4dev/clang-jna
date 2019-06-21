@@ -1,0 +1,6 @@
+libs/
+out/
+.idea/
+.gradle/
+build/
+**/cmake-build-debug/
